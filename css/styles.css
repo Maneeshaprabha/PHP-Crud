@@ -1,0 +1,61 @@
+/* Modal styles */
+.modal-content {
+    background-color: #343a40; /* Dark background color */
+    color: #ffffff; /* Light text color */
+    border: 1px solid #6c757d; /* Border color */
+}
+
+.modal-header {
+    border-bottom: none;
+}
+
+.modal-title {
+    color: #ffffff;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+.modal-footer {
+    border-top: none;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+h4 {
+    color: #007bff; /* Blue color for headings */
+}
+
+p {
+    margin-bottom: 10px; /* Adds spacing between paragraphs */
+}
+
+
+.modal-footer .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+/* Close button color */
+.close {
+    color: #ffffff;
+}
+
+/* Table hover effect */
+.table-hover tbody tr:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+
+
+h4 {
+    color: #007bff; /* Blue color for headings */
+}
+
+p {
+    margin-bottom: 10px; /* Adds spacing between paragraphs */
+}
